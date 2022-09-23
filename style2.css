@@ -1,0 +1,103 @@
+body{
+    background-color: #F7F7F7;
+}
+.nav{
+    top: 0px;
+left: 0px;
+width: auto;
+height: 94px;
+/* UI Properties */
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 30px #7B7B7B29;
+opacity: 1;
+}
+.navdesign{
+font: normal normal bold 40px/49px Inter;
+}
+.adjust{
+    padding-left: 170px;
+    padding-top: 20px;
+}
+.add_task{
+    float: right;
+    font: normal normal normal 22px/26px Inter;
+    margin-right: 600px;
+    margin-top: 10px;
+}
+.make{
+    font-size: 35px;
+    color: #00A5EC;
+}
+
+.new{
+    font-size: 35px;
+    color: #424242; 
+}
+.back{
+    margin-left: 500px;
+    margin-top: 100px; 
+}
+a{
+    text-decoration: none;
+}
+.card{
+
+    /* left: 139px; */
+    width: 352px;
+    height: 250px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #EDEDED;
+    border-radius: 10px;
+    margin-top: 150px;
+    }
+     
+    
+    .card:hover{
+        top: 596px;
+    left: 507px;
+    width: 352px;
+    height: 250px;
+    /* UI Properties */
+    opacity: 1;
+    box-shadow: 0px 0px 20px #67676729;
+    cursor: pointer;
+    }
+    .check{
+        width: 20px;
+           height: 20px;
+           margin: 15px;
+}
+
+
+.data{
+   font-size: 19px;
+   text-decoration: line-through;
+
+}
+.c2{
+   width: 20px;
+   height: 20px;
+   margin: 15px;
+
+}
+p{
+    color: #00A5EC;
+     font-size:21px;
+     margin-left: 22px;
+     margin-top: 20px;
+}
+hr{
+    background-color: grey;
+    opacity: 0.1;
+}
+.data{
+    font-size: 19px;
+    text-decoration: line-through;
+    color: #C2C2C2;
+
+}
+.check{
+    width: 20px;
+       height: 20px;
+       margin: 15px;
+}
